@@ -1,0 +1,8 @@
+<suite name="Testng - prueba">
+    <test name="Ejecucion Test">
+        <classes>
+            <class name="PruebaSeleniumBasico.prueba_netflix"></class>
+            <class name="PruebaSeleniumBasico.prueba_netflix"></class>
+        </classes>
+    </test>
+</suite>
